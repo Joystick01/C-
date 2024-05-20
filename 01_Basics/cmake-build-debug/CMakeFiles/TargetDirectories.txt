@@ -1,0 +1,3 @@
+/Users/kay/Documents/HdM/C++/01_Basics/cmake-build-debug/CMakeFiles/01_Basics.dir
+/Users/kay/Documents/HdM/C++/01_Basics/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/kay/Documents/HdM/C++/01_Basics/cmake-build-debug/CMakeFiles/rebuild_cache.dir
